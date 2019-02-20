@@ -1,0 +1,17 @@
+.main-menu {
+	display: flex;
+	flex-direction: row;
+}
+
+.main-menu__element {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 50px;
+	margin: 0;
+}
+
+.main-menu .wrap:nth-of-type(1) { width: 16.66%; }
+.main-menu .wrap:nth-of-type(2) { width: 16.66%; }
+.main-menu .wrap:nth-of-type(3) { width: 16.66%; }
+.main-menu .wrap:nth-of-type(4) { width: 16.66%; }
+.main-menu .wrap:nth-of-type(5) { width: 16.66%; }
+.main-menu .wrap:nth-of-type(6) { width: 16.66%; }
