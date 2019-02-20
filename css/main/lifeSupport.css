@@ -1,0 +1,35 @@
+.lifeSupport {
+	display: flex;
+	flex-direction: column;
+	height: 720px;
+}
+
+.lifeSupport-title {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 50px;
+	margin: 0;
+}
+.lifeSupport-params {
+	display: flex;
+	flex-direction: row;
+	height: 300px;
+}
+
+.lifeSupport-params .wrap:nth-of-type(1) { width: 70%; }
+.lifeSupport-params .wrap:nth-of-type(2) { width: 30%; }
+
+.lifeSupport-params__pressure {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 292px;
+	margin: 0;
+}
+.lifeSupport-params__air {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 292px;
+	margin: 0;
+}
+.lifeSupport-airControl {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 366px;
+	margin: 0;
+}
