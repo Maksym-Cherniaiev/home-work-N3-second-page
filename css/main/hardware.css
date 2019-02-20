@@ -1,19 +1,25 @@
 .hardware {
 	display: flex;
 	flex-direction: row;
-	width: 995px;
+	width: 100%;
 	margin: 0;
 }
 
 .hardware-communication {
 	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
 	height: 160px;
-	margin: 0;
+	border-right: 2px solid rgb(93, 118, 149);
+	border-bottom: 2px solid rgb(93, 118, 149);
+	margin: 2px 0 0 2px;
+	width: 40%;
 }
 .hardware-computers {
 	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
 	height: 160px;
-	margin: 0;
+	border-right: 2px solid rgb(93, 118, 149);
+	border-bottom: 2px solid rgb(93, 118, 149);
+	margin: 2px 0 0 2px;
+	width: 60%;
 }
 
 .hardware .wrap:nth-of-type(1) { width: 40%; }
