@@ -1,7 +1,6 @@
 .hardware {
 	display: flex;
 	flex-direction: row;
-	background-color: rgb(111, 140, 174);
 	width: 995px;
 	margin: 0;
 }

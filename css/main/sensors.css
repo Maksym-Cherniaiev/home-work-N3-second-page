@@ -1,7 +1,6 @@
 .sensors {
 	display: flex;
 	width: 995px;
-	background-color: rgb(111, 140, 174);
 }
 .sensors-element {
 	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
