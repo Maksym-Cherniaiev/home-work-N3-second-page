@@ -1,0 +1,21 @@
+.hardware {
+	display: flex;
+	flex-direction: row;
+	background-color: rgb(111, 140, 174);
+	width: 995px;
+	margin: 0;
+}
+
+.hardware-communication {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 160px;
+	margin: 0;
+}
+.hardware-computers {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 160px;
+	margin: 0;
+}
+
+.hardware .wrap:nth-of-type(1) { width: 40%; }
+.hardware .wrap:nth-of-type(2) { width: 60%; }

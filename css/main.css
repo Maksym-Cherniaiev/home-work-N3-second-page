@@ -1,0 +1,9 @@
+@import "./main/sensors.css";
+@import "./main/hardware.css";
+
+
+.wrap {
+	background: linear-gradient(rgb(83, 109, 137), rgb(127, 150, 188));
+	padding: 0 2px 2px 0;
+	margin: 2px 0 0 2px;
+}

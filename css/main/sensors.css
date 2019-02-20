@@ -1,0 +1,16 @@
+.sensors {
+	display: flex;
+	width: 995px;
+	background-color: rgb(111, 140, 174);
+}
+.sensors-element {
+	background: linear-gradient(rgb(127, 150, 188), rgb(83, 109, 137));
+	height: 160px;
+	margin: 0;
+}
+
+.sensors .wrap:nth-of-type(1) { width: 20%; }
+.sensors .wrap:nth-of-type(2) { width: 20%; }
+.sensors .wrap:nth-of-type(3) { width: 20%; }
+.sensors .wrap:nth-of-type(4) { width: 20%; }
+.sensors .wrap:nth-of-type(5) { width: 20%; }

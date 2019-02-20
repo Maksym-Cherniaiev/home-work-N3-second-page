@@ -1,0 +1,11 @@
+.title {
+	background-color: rgb(131, 160, 198);
+	padding: 0;
+	margin: 0;
+	height: 50px;
+	width: 995px;
+}
+
+.title p {
+	text-transform: uppercase;
+}
